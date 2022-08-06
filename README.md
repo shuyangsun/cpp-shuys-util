@@ -1,2 +1,3 @@
-# cpp-shuys-util
+# shuys-util
+
 C++ header-only utility.
